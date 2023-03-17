@@ -13,24 +13,24 @@ A Cloth-Changing Benchmark for Person re-identification and Gait recognition (CC
 ## Examples of CCPG
 
 #### RGB
-![avatar]("assets/all_v2.jpg")
+![image]((https://github.com/BNU-IVC/CCPG/blob/main/assets/all.png))
 
 #### Silhoutte
-![avatar]("./assets/all.png")
+![image]((https://github.com/BNU-IVC/CCPG/blob/main/assets/all_v2.jpg))
 
 #### Clothes Variation
-![avatar]("./assets/cloth-changing-v4.jpg")
+![image](https://github.com/BNU-IVC/CCPG/blob/main/assets/cloth-changing-v4.jpg)
 
 ## Download CCPG
-All users can obtain and use this dataset only after signing the agreement and sending it to the official contact email address (housaihui@bnu.edu.cn)
+All users can obtain and use this dataset only after signing the agreement provided by us and sending it to the official contact email address (housaihui@bnu.edu.cn)
 
 
 ## Citation
-@inproceedings{ccgp2023,\\
-  title={An In-depth Exploration of Person Re-identification and Gait Recognition in Cloth-Changing Conditions},\\
-  author={Weijia Li, Saihui Hou, Chunjie Zhang, Chunshui Cao, Xu Liu, Yongzhen Huang, Yao Zhao},\\
-  booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},\\
-  year={2023}\\
+@inproceedings{ccgp2023,<br>
+  title={An In-depth Exploration of Person Re-identification and Gait Recognition in Cloth-Changing Conditions},<br>
+  author={Weijia Li, Saihui Hou, Chunjie Zhang, Chunshui Cao, Xu Liu, Yongzhen Huang, Yao Zhao},<br>
+  booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},<br>
+  year={2023}<br>
 }
 
 **Note:**
