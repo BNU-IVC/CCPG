@@ -13,10 +13,10 @@ A Cloth-Changing Benchmark for Person re-identification and Gait recognition (CC
 ## Examples of CCPG
 
 #### RGB
-![image]((https://github.com/BNU-IVC/CCPG/blob/main/assets/all.png))
+![image](https://github.com/BNU-IVC/CCPG/blob/main/assets/all.png)
 
 #### Silhoutte
-![image]((https://github.com/BNU-IVC/CCPG/blob/main/assets/all_v2.jpg))
+![image](https://github.com/BNU-IVC/CCPG/blob/main/assets/all_v2.jpg)
 
 #### Clothes Variation
 ![image](https://github.com/BNU-IVC/CCPG/blob/main/assets/cloth-changing-v4.jpg)
