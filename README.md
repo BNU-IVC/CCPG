@@ -19,7 +19,7 @@ A Cloth-Changing Benchmark for Person re-identification and Gait recognition (CC
 <img src="./assets/all_v2.jpg" width = "600" height = "600"/>
 
 #### Clothes Variation
-<img src="./assetscloth-changing-v4.jpg" width = "600" height = "300"/>
+<img src="./assets/cloth-changing-v4.jpg" width = "600" height = "300"/>
 
 ## Download CCPG
 All users can obtain and use this dataset only after signing the agreement provided by us and sending it to the official contact email address (housaihui@bnu.edu.cn)
