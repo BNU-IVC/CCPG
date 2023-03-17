@@ -13,7 +13,7 @@ A Cloth-Changing Benchmark for Person re-identification and Gait recognition (CC
 ## Examples of CCPG
 
 #### RGB
-![avatar]("./assets/all_v2.jpg")
+![avatar]("assets/all_v2.jpg")
 
 #### Silhoutte
 ![avatar]("./assets/all.png")
@@ -26,11 +26,11 @@ All users can obtain and use this dataset only after signing the agreement and s
 
 
 ## Citation
-@inproceedings{ccgp2023,
-  title={An In-depth Exploration of Person Re-identification and Gait Recognition in Cloth-Changing Conditions},
-  author={Weijia Li, Saihui Hou, Chunjie Zhang, Chunshui Cao, Xu Liu, Yongzhen Huang, Yao Zhao},
-  booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},
-  year={2023}
+@inproceedings{ccgp2023,\\
+  title={An In-depth Exploration of Person Re-identification and Gait Recognition in Cloth-Changing Conditions},\\
+  author={Weijia Li, Saihui Hou, Chunjie Zhang, Chunshui Cao, Xu Liu, Yongzhen Huang, Yao Zhao},\\
+  booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},\\
+  year={2023}\\
 }
 
 **Note:**
