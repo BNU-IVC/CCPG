@@ -12,14 +12,14 @@ A Cloth-Changing Benchmark for Person re-identification and Gait recognition (CC
 
 ## Examples of CCPG
 
-#### RGB
-<img src="./assets/all.png" width = "500" height = "150"/>
-
 #### Silhoutte
-![image](https://github.com/BNU-IVC/CCPG/blob/main/assets/all_v2.jpg)
+<img src="./assets/all.png" width = "600" height = "150"/>
+
+#### RGB
+<img src="./assets/all_v2.jpg" width = "600" height = "600"/>
 
 #### Clothes Variation
-![image](https://github.com/BNU-IVC/CCPG/blob/main/assets/cloth-changing-v4.jpg)
+<img src="./assetscloth-changing-v4.jpg" width = "600" height = "300"/>
 
 ## Download CCPG
 All users can obtain and use this dataset only after signing the agreement provided by us and sending it to the official contact email address (housaihui@bnu.edu.cn)
