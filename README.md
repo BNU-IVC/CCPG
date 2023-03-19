@@ -22,7 +22,7 @@ A Cloth-Changing Benchmark for Person re-identification and Gait recognition (CC
 <img src="./assets/cloth-changing-v4.jpg" width = "600" height = "300"/>
 
 ## Download CCPG
-This dataset is coming soon. If you can have any problem, please contact us (BNU-IVC@outlook.com).<br>
+This dataset is coming soon. If you have any problem, please contact us (BNU-IVC@outlook.com).<br>
 
 ## Citation
 Please cite the following paper if you find this useful in your research:
