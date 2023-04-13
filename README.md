@@ -23,7 +23,7 @@ A Cloth-Changing Benchmark for Person re-identification and Gait recognition (CC
 
 ## Download CCPG
 All users can obtain and use this dataset and its subsets only after finishing the following steps.
-  1. Send us a request for the latest agreement by [email](BNU-IVC@outlook.com).
+  1. Send us a request for the latest agreement by BNU-IVC@outlook.com.
   2. Submit the completed agreement to the same email address as above.
   
 We will process your requests soon. If you have any problem, please contact us.<br>
