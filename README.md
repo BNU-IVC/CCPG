@@ -32,7 +32,7 @@ We will process your requests soon. If you have any problem, please contact us.<
 Please cite the following paper if you find this useful in your research:
 
 
-@inproceedings{ccgp2023,<br>
+@inproceedings{ccpg2023,<br>
   title={An In-depth Exploration of Person Re-identification and Gait Recognition in Cloth-Changing Conditions},<br>
   author={Weijia Li, Saihui Hou, Chunjie Zhang, Chunshui Cao, Xu Liu, Yongzhen Huang, Yao Zhao},<br>
   booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},<br>
