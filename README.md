@@ -4,12 +4,6 @@ A Cloth-Changing Benchmark for Person re-identification and Gait Recognition (CC
 
 ## Highlights in CCPG
 
-(1) It provides 200 identities and over 16K sequences are captured indoors and outdoors.
-
-(2) Each identity has seven different cloth-changing statuses, which is never seen in previous datasets.
-
-(3) RGB and silhouettes version data are both available for research purposes **ONLY**.
-
 (1) It provides 200 identities, including over 16K sequences captured both indoors and outdoors.
 
 (2) Each identity has seven different cloth-changing statuses, which is a feature not previously seen in other datasets.
