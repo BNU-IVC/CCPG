@@ -34,11 +34,13 @@ Please cite the following paper if you find this useful in your research:
 
 
 ```BibTeX
-@inproceedings{ccpg2023,
-  title={An In-depth Exploration of Person Re-identification and Gait Recognition in Cloth-Changing Conditions},
-  author={Weijia Li, Saihui Hou, Chunjie Zhang, Chunshui Cao, Xu Liu, Yongzhen Huang, Yao Zhao},
-  booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},
-  year={2023}
+@InProceedings{Li_2023_CVPR,
+    author    = {Li, Weijia and Hou, Saihui and Zhang, Chunjie and Cao, Chunshui and Liu, Xu and Huang, Yongzhen and Zhao, Yao},
+    title     = {An In-Depth Exploration of Person Re-Identification and Gait Recognition in Cloth-Changing Conditions},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2023},
+    pages     = {13824-13833}
 }
 ```
 
