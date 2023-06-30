@@ -28,6 +28,11 @@ To obtain and use this dataset and its subsets, all users are required to comple
   
 We will handle your requests within a week. In case you encounter any issues, please feel free to reach out to us via BNU-IVC@outlook.com. <br>
 
+## Recommended Code
+CCPG dataset is supported by the popular gait recognition project **[OpenGait](https://github.com/ShiqiYu/OpenGait/)**. We strongly suggest considering the code available at *[here](https://github.com/ShiqiYu/OpenGait/blob/master/datasets/CCPG/README.md)* as the sample code.
+
+
+
 ## Citation
 Please cite the following paper if you find this useful in your research:
 
