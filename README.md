@@ -25,8 +25,9 @@ A Cloth-Changing Benchmark for Person re-identification and Gait Recognition (CC
 To obtain and use this dataset and its subsets, all users are required to complete the following steps:
   1. Download the latest agreement and complete it.
   2. Submit it to BNU-IVC@outlook.com .
+  3. Please use the organization email address to send the mail.
   
-We will handle your requests within a week. In case you encounter any issues, please feel free to reach out to us via BNU-IVC@outlook.com. <br>
+We will handle your requests within a week. (**Occasionally, emails may be flagged as spam. If you haven't received a response within a week, please resend your mail from an alternate email address.**)In case you encounter any issues, please feel free to reach out to us via BNU-IVC@outlook.com. <br>
 
 ## Recommended Code
 CCPG dataset is supported by the popular gait recognition project **[OpenGait](https://github.com/ShiqiYu/OpenGait/)**. We strongly suggest considering the code available at *[here](https://github.com/ShiqiYu/OpenGait/blob/master/datasets/CCPG/README.md)* as the sample code.
