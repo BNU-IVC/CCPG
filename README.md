@@ -1,6 +1,6 @@
 # The CCPG Benchmark
 
-A Cloth-Changing Benchmark for Person re-identification and Gait Recognition (CCPG).
+A Cloth-Changing Benchmark for Person Re-identification and Gait Recognition (CCPG).
 
 ## Highlights in CCPG
 
@@ -8,11 +8,11 @@ A Cloth-Changing Benchmark for Person re-identification and Gait Recognition (CC
 
 (2) Each identity has seven different cloth-changing statuses, which is a feature not previously seen in other datasets.
 
-(3) It includes both RGB and silhouette version data, but it is essential to note that it is **ACADEMIC USE ONLY**.
+(3) The dataset includes RGB, silhouette, and pose data versions, but it is essential to note that it is **ACADEMIC USE ONLY**. 
 
 ## Examples of CCPG
 
-#### Silhoutte
+#### Silhouette
 <img src="./assets/all.png" width = "600" height = "150"/>
 
 #### RGB
@@ -25,7 +25,7 @@ A Cloth-Changing Benchmark for Person re-identification and Gait Recognition (CC
 To obtain and use this dataset and its subsets, all users are required to complete the following steps:
   1. Download the latest agreement and complete it.
   2. Submit it to BNU-IVC@outlook.com .
-  3. Please use the organization email address to send the mail.
+  3. Please use the organization's email address to send the mail.
   
 We will handle your requests within a week. (**Occasionally, emails may be flagged as spam. If you haven't received a response within a week, please resend your mail from an alternate email address.**)In case you encounter any issues, please feel free to reach out to us via BNU-IVC@outlook.com. <br>
 
