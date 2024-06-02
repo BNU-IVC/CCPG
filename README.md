@@ -8,7 +8,7 @@ A Cloth-Changing Benchmark for Person Re-identification and Gait Recognition (CC
 
 (2) Each identity has seven different cloth-changing statuses, which is a feature not previously seen in other datasets.
 
-(3) The dataset includes RGB, silhouette, and pose data versions, but it is essential to note that it is **ACADEMIC USE ONLY**. 
+(3) The dataset includes **RGB**, **silhouette**, and **pose** data versions, but it is essential to note that it is **ACADEMIC USE ONLY**. 
 
 ## Examples of CCPG
 
